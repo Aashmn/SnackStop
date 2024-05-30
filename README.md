@@ -5,3 +5,6 @@ We bring to u SnackStop. A easy website/webapp that lets bennettians check out t
 ![Untitled design 1500x1080](https://github.com/ishani-jaiswal/SnackStop_dti/assets/119323628/faa9bc13-6a0c-44c1-a7af-ca67c0c5bfdc)
 
 To check out the website make sure to download the whole repository and run the index.html file.
+
+
+Made By : Ishani Jaiswal, Aashmn Panwar
